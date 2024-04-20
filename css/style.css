@@ -85,8 +85,8 @@ body{
 @media(max-width: 500px){
     .card{
         width: 100%;
-        backgound: none;
-        margin: 0;
+        background: none;
+        margin-top: 0;
     }
     body{
         background: rgb(0,205,114);
